@@ -2,7 +2,7 @@
 Power Bi Dashboard
 
 
-project Objective : To develop a comprehensive Presence insights dashboard that provides total working days, presence % change over time, work from home % and sick leave % over time with details of employees.
+Project Objective : To develop a comprehensive Presence insights dashboard that provides total working days, presence % change over time, work from home % and sick leave % over time with details of employees.
 
 
 Dataset : Attendence Sheet 2022-2023 Masked Dataset.
