@@ -10,8 +10,11 @@ Dataset : Attendence Sheet 2022-2023 Masked Dataset.
 
 Steps :
        - Import data from excel workbook to power bi.
+       
        - Transform data by using power query and shape data according to requirements.
+       
        - By using Dax create some measures and columns.
+       
        - Than we create a Dashboard with useful insights.
 
        
